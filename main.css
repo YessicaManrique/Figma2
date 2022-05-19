@@ -26,6 +26,7 @@ img{
    }
 
 footer{
+    width: 1335px;
     background-color: rgb(19, 10, 31);
     color:white;
     display: flex;
@@ -48,4 +49,25 @@ footer{
 
 .menu f{
     text-decoration: none;
+}
+
+.Left{
+    float:left;
+    width: -5000px;
+    text-align: left;
+    margin: 5000px,50px;
+    display: inline;
+   /* align-items: stretch;*/
+}
+
+.Rigth{
+    float: left;
+    width: 400px;
+    text-align: left;
+    margin: 1000px,1000px;
+    /*width: 50px;
+    height: 200px;*/
+    display: inline;
+ /*   align-items: stretch;*/
+    
 }
